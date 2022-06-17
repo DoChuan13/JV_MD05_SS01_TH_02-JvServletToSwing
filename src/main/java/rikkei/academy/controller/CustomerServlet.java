@@ -1,8 +1,6 @@
 package rikkei.academy.controller;
 
-import rikkei.academy.model.Customer;
-import rikkei.academy.service.CustomerService;
-import rikkei.academy.service.CustomerServiceFactory;
+
 
 import java.io.*;
 import javax.servlet.http.*;

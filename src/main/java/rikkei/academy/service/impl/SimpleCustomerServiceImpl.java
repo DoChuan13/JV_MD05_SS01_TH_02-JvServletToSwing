@@ -15,11 +15,11 @@ public class SimpleCustomerServiceImpl implements CustomerService {
 
     static {
         customers = asList(
-                new Customer(autoIncreaseId++, "T", "t@codegym.vn", "Da Nang"),
-                new Customer(autoIncreaseId++, "Nhat", "nhat@codegym.vn", "Quang Tri"),
-                new Customer(autoIncreaseId++, "Trang", "trang@codegym.vn", "Ha Noi"),
-                new Customer(autoIncreaseId++, "Nguyen Binh Son", "son@codegym.vn", "Sai Gon"),
-                new Customer(autoIncreaseId++, "Dang Xuan Hoa", "hoa.dang@codegym.vn", "Da Nang")
+                new Customer(autoIncreaseId++, "ChinhND", "chinhnd@rikkei.academy", "Hai Duong"),
+                new Customer(autoIncreaseId++, "Dung", "dung@rikkei.academy", "Quang Tri"),
+                new Customer(autoIncreaseId++, "Hieu Beo", "hieubeo@rikkei.academy", "Ha Noi"),
+                new Customer(autoIncreaseId++, "Linh", "oinh@rikkei.academy", "Sai Gon"),
+                new Customer(autoIncreaseId++, "Toan", "toan@rikkei.academy", "Da Nang")
         );
     }
 
